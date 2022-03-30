@@ -1,2 +1,0 @@
-# master
-today is wednesday
